@@ -1,0 +1,11 @@
+.navbar-pers{
+    background-image: linear-gradient(to bottom, black 10%, transparent);
+    font-size: 110%;
+    min-height: 80px;
+}
+
+.navbar-pers a{
+    margin-right: 35px;
+    color: aliceblue;
+    font-weight: bolder;
+}
